@@ -1,0 +1,173 @@
+{
+  "data": {
+    "nodeMemberBusinesses": {
+      "__typename": "NodeMemberBusinessConnection",
+      "nodes": [
+        {
+          "__typename": "NodeMemberBusiness",
+          "id": "biz-riverstone",
+          "title": "Riverstone Brewing Company",
+          "path": "/directory/riverstone-brewing-company",
+          "body": {
+            "processed": "<p>Craft brewery and taproom offering locally brewed beers, seasonal releases, and a community gathering space in downtown Riverside. From hoppy IPAs to smooth stouts, Riverstone takes pride in using locally sourced ingredients and sustainable brewing practices.</p><p>The taproom features 16 rotating taps, a full food menu, and live music on weekends. Available for private events and corporate gatherings.</p>",
+            "summary": "Craft brewery and taproom offering locally brewed beers, seasonal releases, and a community gathering space in downtown Riverside. From hoppy IPAs to smooth stouts, Riverstone takes pride in using loc"
+          },
+          "businessCategory": "Food & Beverage",
+          "address": "245 Main Street, Riverside",
+          "phone": "(555) 200-3001",
+          "websiteUrl": "https://riverstonebrewing.com",
+          "memberSince": "2018",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=800&q=80",
+            "alt": "Riverstone Brewing Company taproom",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeMemberBusiness",
+          "id": "biz-summit",
+          "title": "Summit Financial Advisors",
+          "path": "/directory/summit-financial-advisors",
+          "body": {
+            "processed": "<p>Independent financial planning and wealth management firm serving individuals, families, and small business owners in the Riverside area. Our team of certified financial planners provides personalized strategies for retirement, education funding, estate planning, and investment management.</p><p>We believe in transparent, fee-only advising with no commissions or hidden costs. Free initial consultation for chamber members.</p>",
+            "summary": "Independent financial planning and wealth management firm serving individuals, families, and small business owners in the Riverside area. Our team of certified financial planners provides personalized"
+          },
+          "businessCategory": "Professional Services",
+          "address": "890 Commerce Drive, Suite 200",
+          "phone": "(555) 200-3002",
+          "websiteUrl": "https://summitfinancialadvisors.com",
+          "memberSince": "2015",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+            "alt": "Summit Financial Advisors office",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeMemberBusiness",
+          "id": "biz-green-leaf",
+          "title": "Green Leaf Landscaping",
+          "path": "/directory/green-leaf-landscaping",
+          "body": {
+            "processed": "<p>Full-service commercial and residential landscaping company specializing in sustainable design, native plantings, and water-efficient irrigation systems. Family-owned and operated for over 25 years, Green Leaf has transformed thousands of properties throughout the region.</p><p>Services include landscape design, installation, seasonal maintenance, hardscaping, and snow removal.</p>",
+            "summary": "Full-service commercial and residential landscaping company specializing in sustainable design, native plantings, and water-efficient irrigation systems. Family-owned and operated for over 25 years, G"
+          },
+          "businessCategory": "Home & Garden",
+          "address": "1200 Industrial Parkway",
+          "phone": "(555) 200-3003",
+          "websiteUrl": "https://greenleaflandscaping.com",
+          "memberSince": "2005",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+            "alt": "Professional landscaping work",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeMemberBusiness",
+          "id": "biz-pixel",
+          "title": "Pixel Creative Agency",
+          "path": "/directory/pixel-creative-agency",
+          "body": {
+            "processed": "<p>A full-service digital marketing and creative agency helping local businesses grow their online presence. Services include web design, social media management, SEO, content creation, and brand strategy.</p><p>Founded by two Riverside natives, Pixel specializes in working with small and medium businesses that want to compete with larger competitors online. We offer chamber member discounts on all service packages.</p>",
+            "summary": "A full-service digital marketing and creative agency helping local businesses grow their online presence. Services include web design, social media management, SEO, content creation, and brand strateg"
+          },
+          "businessCategory": "Marketing & Technology",
+          "address": "456 Innovation Way, Suite 100",
+          "phone": "(555) 200-3004",
+          "websiteUrl": "https://pixelcreativeagency.com",
+          "memberSince": "2020",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+            "alt": "Creative agency team brainstorming",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

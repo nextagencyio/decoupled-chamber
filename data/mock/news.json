@@ -1,0 +1,132 @@
+{
+  "data": {
+    "nodeNewses": {
+      "__typename": "NodeNewsConnection",
+      "nodes": [
+        {
+          "__typename": "NodeNews",
+          "id": "news-small-biz-week",
+          "title": "Riverside Celebrates National Small Business Week",
+          "path": "/news/small-business-week-2026",
+          "body": {
+            "processed": "<p>The Riverside Chamber is proud to celebrate National Small Business Week with a series of events honoring the entrepreneurs and small business owners who are the backbone of our local economy.</p><h2>Week-Long Programming</h2><ul><li><strong>Monday:</strong> Small Business Appreciation Day -- shop local discounts at participating businesses</li><li><strong>Tuesday:</strong> Free marketing workshop for small business owners</li><li><strong>Wednesday:</strong> Small Business Owners Luncheon with keynote speaker</li><li><strong>Thursday:</strong> Meet-the-Lender networking event</li><li><strong>Friday:</strong> Small Business Awards reception</li></ul><p>Small businesses employ over 60% of Riverside's workforce. This week, we celebrate their dedication, innovation, and resilience.</p>",
+            "summary": "The Riverside Chamber is proud to celebrate National Small Business Week with a series of events honoring the entrepreneurs and small business owners who are the backbone of our local economy.Week-Lon"
+          },
+          "newsCategory": "Events",
+          "publishDate": {
+            "timestamp": 1777384800
+          },
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&q=80",
+            "alt": "Small business storefront",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-infrastructure",
+          "title": "Chamber Secures $5M Grant for Downtown Infrastructure",
+          "path": "/news/downtown-infrastructure-project",
+          "body": {
+            "processed": "<p>After two years of advocacy by the Riverside Chamber's Government Affairs Committee, the city has been awarded a $5 million federal grant for downtown infrastructure improvements.</p><p>The project will include upgraded sidewalks, improved street lighting, new public parking, and enhanced broadband connectivity throughout the downtown business district.</p><h2>Timeline</h2><p>Construction is expected to begin in fall 2026 and be completed by spring 2028. The Chamber will host informational sessions for affected businesses to minimize disruption during construction.</p><h2>Business Impact</h2><p>\"This investment will transform downtown Riverside into an even more attractive destination for businesses and customers alike,\" said Chamber President Janet Morrison. \"Modern infrastructure is essential for attracting new businesses and supporting existing ones.\"</p>",
+            "summary": "After two years of advocacy by the Riverside Chamber's Government Affairs Committee, the city has been awarded a $5 million federal grant for downtown infrastructure improvements.The project will incl"
+          },
+          "newsCategory": "Advocacy",
+          "publishDate": {
+            "timestamp": 1773583200
+          },
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+            "alt": "Downtown cityscape development",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-workforce",
+          "title": "Chamber Launches Workforce Partnership with Community College",
+          "path": "/news/workforce-partnership-announcement",
+          "body": {
+            "processed": "<p>The Riverside Chamber of Commerce and Riverside Community College have announced a new workforce development partnership designed to address the skilled labor shortage affecting local businesses.</p><h2>Program Highlights</h2><ul><li>Industry-aligned certificate programs in healthcare, IT, and advanced manufacturing</li><li>Paid internship pipeline connecting students with member businesses</li><li>Tuition assistance for employees of chamber member businesses</li><li>Customized training programs developed with employer input</li></ul><p>\"By aligning education with employer needs, we are creating a win-win for students and businesses,\" said Dr. Marcus Rivera, President of Riverside Community College.</p><p>Member businesses interested in participating as internship hosts or advising on curriculum development should contact workforce@riversidechamber.org.</p>",
+            "summary": "The Riverside Chamber of Commerce and Riverside Community College have announced a new workforce development partnership designed to address the skilled labor shortage affecting local businesses.Progr"
+          },
+          "newsCategory": "Workforce",
+          "publishDate": {
+            "timestamp": 1771599600
+          },
+          "featured": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+            "alt": "Students in a training program",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

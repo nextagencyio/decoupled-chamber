@@ -1,0 +1,144 @@
+{
+  "data": {
+    "nodeEvents": {
+      "__typename": "NodeEventConnection",
+      "nodes": [
+        {
+          "__typename": "NodeEvent",
+          "id": "event-luncheon",
+          "title": "Monthly Business Luncheon: Economic Outlook 2026",
+          "path": "/events/business-luncheon-april",
+          "body": {
+            "processed": "<p>Join us for our monthly business luncheon featuring keynote speaker Dr. Patricia Hernandez, Chief Economist at First National Bank, presenting the economic outlook for the second half of 2026.</p><h2>Program</h2><ul><li>11:30 AM - Networking and registration</li><li>12:00 PM - Lunch served</li><li>12:30 PM - Keynote presentation</li><li>1:15 PM - Q&A and discussion</li><li>1:45 PM - Adjourn</li></ul><p>Sponsorship opportunities available. Contact events@riversidechamber.org.</p>",
+            "summary": "Join us for our monthly business luncheon featuring keynote speaker Dr. Patricia Hernandez, Chief Economist at First National Bank, presenting the economic outlook for the second half of 2026.Program1"
+          },
+          "eventDate": {
+            "timestamp": 1776270600
+          },
+          "endDate": {
+            "timestamp": 1776278700
+          },
+          "location": "Riverside Grand Hotel Ballroom",
+          "ticketPrice": "$35 members, $50 non-members",
+          "registrationUrl": "https://example.com/luncheon-april",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+            "alt": "Business luncheon event",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-mixer",
+          "title": "Business After Hours Mixer",
+          "path": "/events/after-hours-mixer",
+          "body": {
+            "processed": "<p>Our signature networking event! Mingle with fellow business owners and professionals in a relaxed, social setting. This month's mixer is hosted by Riverstone Brewing Company, featuring complimentary craft beer tastings and appetizers.</p><h2>Why Attend</h2><ul><li>Expand your professional network</li><li>Build referral partnerships</li><li>Learn about new businesses in the community</li><li>Enjoy complimentary food and drinks</li></ul><p>Bring your business cards and an open mind. Guests of members welcome.</p>",
+            "summary": "Our signature networking event! Mingle with fellow business owners and professionals in a relaxed, social setting. This month's mixer is hosted by Riverstone Brewing Company, featuring complimentary c"
+          },
+          "eventDate": {
+            "timestamp": 1777068000
+          },
+          "endDate": {
+            "timestamp": 1777077000
+          },
+          "location": "Riverstone Brewing Company, 245 Main Street",
+          "ticketPrice": "Free for members, $10 non-members",
+          "registrationUrl": "https://example.com/mixer-april",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "alt": "Business professionals networking",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-awards",
+          "title": "Annual Business Excellence Awards Gala",
+          "path": "/events/annual-business-awards",
+          "body": {
+            "processed": "<p>Celebrate the outstanding achievements of Riverside businesses at our annual awards gala. This black-tie event honors innovation, community impact, leadership, and entrepreneurial success.</p><h2>Award Categories</h2><ul><li>Business of the Year (Large and Small)</li><li>Entrepreneur of the Year</li><li>Community Impact Award</li><li>Innovation Award</li><li>Emerging Business Award</li></ul><p>Nominations are open through August 31. Formal attire requested. Tables of 8 available for corporate sponsors.</p>",
+            "summary": "Celebrate the outstanding achievements of Riverside businesses at our annual awards gala. This black-tie event honors innovation, community impact, leadership, and entrepreneurial success.Award Catego"
+          },
+          "eventDate": {
+            "timestamp": 1792278000
+          },
+          "endDate": {
+            "timestamp": 1792292400
+          },
+          "location": "Riverside Convention Center",
+          "ticketPrice": "$85 per person, $600 table of 8",
+          "registrationUrl": "https://example.com/awards-gala",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&q=80",
+            "alt": "Formal business awards ceremony",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

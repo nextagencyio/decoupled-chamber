@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Riverside Chamber of Commerce",
+          "path": "/homepage",
+          "heroTitle": "Strengthening Business, Building Community",
+          "heroSubtitle": "Riverside Chamber of Commerce",
+          "heroDescription": {
+            "processed": "<p>The voice of business in Riverside for nearly a century. We connect, advocate, and empower local businesses through networking, resources, and civic leadership. When business thrives, our entire community prospers.</p>",
+            "summary": "The voice of business in Riverside for nearly a century. We connect, advocate, and empower local businesses through networking, resources, and civic leadership. When business thrives, our entire commu"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-members",
+              "title": "",
+              "number": "650+",
+              "label": "Member Businesses"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-jobs",
+              "title": "",
+              "number": "15,000+",
+              "label": "Jobs Represented"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-events",
+              "title": "",
+              "number": "75+",
+              "label": "Annual Events"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-years",
+              "title": "",
+              "number": "95",
+              "label": "Years Serving Business"
+            }
+          ],
+          "featuredItemsTitle": "Upcoming Events",
+          "ctaTitle": "Join the Chamber Today",
+          "ctaDescription": {
+            "processed": "<p>Membership opens doors to networking, visibility, advocacy, and exclusive business resources. Invest in your business and your community.</p>",
+            "summary": "Membership opens doors to networking, visibility, advocacy, and exclusive business resources. Invest in your business and your community."
+          },
+          "ctaPrimary": "Become a Member",
+          "ctaSecondary": "Member Directory"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "nodeResources": {
+      "__typename": "NodeResourceConnection",
+      "nodes": [
+        {
+          "__typename": "NodeResource",
+          "id": "resource-startup",
+          "title": "Starting a Business in Riverside",
+          "path": "/resources/starting-a-business",
+          "body": {
+            "processed": "<p>Everything you need to know about launching a business in the Riverside area. From permits and licensing to funding sources and mentorship, this guide covers every step of the startup journey.</p><h2>Step-by-Step Guide</h2><ul><li>Develop your business plan</li><li>Choose your business structure (LLC, S-Corp, etc.)</li><li>Register with the state and obtain an EIN</li><li>Apply for local business licenses and permits</li><li>Open a business bank account</li><li>Secure insurance</li><li>Find your location</li></ul><h2>Local Resources</h2><ul><li><strong>SCORE Riverside:</strong> Free mentoring from experienced business owners</li><li><strong>Small Business Development Center:</strong> Free consulting and workshops</li><li><strong>Riverside Economic Development Office:</strong> Incentives and tax programs</li></ul>",
+            "summary": "Everything you need to know about launching a business in the Riverside area. From permits and licensing to funding sources and mentorship, this guide covers every step of the startup journey.Step-by-"
+          },
+          "resourceCategory": "Starting a Business",
+          "audience": "Entrepreneurs & Startups",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+            "alt": "Entrepreneur planning a business launch",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeResource",
+          "id": "resource-advocacy",
+          "title": "Legislative Advocacy & Policy Priorities",
+          "path": "/resources/advocacy-priorities",
+          "body": {
+            "processed": "<p>The Riverside Chamber advocates on behalf of the business community at the local, state, and federal levels. Our policy positions are developed through member input and our Government Affairs Committee.</p><h2>2026 Policy Priorities</h2><ul><li><strong>Infrastructure Investment:</strong> Support for broadband expansion and road improvements</li><li><strong>Workforce Development:</strong> Expanded apprenticeship programs and training partnerships</li><li><strong>Tax Policy:</strong> Reasonable tax rates that encourage business investment</li><li><strong>Regulatory Reform:</strong> Streamlined permitting processes for small businesses</li><li><strong>Downtown Revitalization:</strong> Public-private partnerships for economic development</li></ul><h2>How to Get Involved</h2><p>Join our Government Affairs Committee or sign up for legislative alerts to stay informed about issues affecting your business.</p>",
+            "summary": "The Riverside Chamber advocates on behalf of the business community at the local, state, and federal levels. Our policy positions are developed through member input and our Government Affairs Committe"
+          },
+          "resourceCategory": "Advocacy",
+          "audience": "All Members",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80",
+            "alt": "Government building representing advocacy",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeResource",
+          "id": "resource-marketing",
+          "title": "Member Marketing Toolkit",
+          "path": "/resources/marketing-toolkit",
+          "body": {
+            "processed": "<p>As a chamber member, you have access to a variety of marketing tools and opportunities to increase your business visibility in the community.</p><h2>Member Benefits</h2><ul><li><strong>Business Directory Listing:</strong> Prominent placement on our website with 10,000+ monthly visitors</li><li><strong>Social Media Features:</strong> Monthly member spotlights across our social channels</li><li><strong>Newsletter Inclusion:</strong> Submit articles and offers for our bi-weekly newsletter (8,000+ subscribers)</li><li><strong>Event Sponsorship:</strong> Brand visibility at chamber events throughout the year</li><li><strong>Referral Network:</strong> Direct referrals from chamber staff and fellow members</li></ul><h2>Advertising Opportunities</h2><p>Website banner ads, newsletter sponsorships, and event program advertising are available at member rates. Contact marketing@riversidechamber.org for pricing.</p>",
+            "summary": "As a chamber member, you have access to a variety of marketing tools and opportunities to increase your business visibility in the community.Member BenefitsBusiness Directory Listing: Prominent placem"
+          },
+          "resourceCategory": "Marketing",
+          "audience": "All Members",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+            "alt": "Marketing strategy planning session",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

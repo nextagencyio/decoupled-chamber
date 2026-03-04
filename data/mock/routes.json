@@ -1,0 +1,720 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Riverside Chamber of Commerce",
+          "path": "/homepage",
+          "heroTitle": "Strengthening Business, Building Community",
+          "heroSubtitle": "Riverside Chamber of Commerce",
+          "heroDescription": {
+            "processed": "<p>The voice of business in Riverside for nearly a century. We connect, advocate, and empower local businesses through networking, resources, and civic leadership. When business thrives, our entire community prospers.</p>",
+            "summary": "The voice of business in Riverside for nearly a century. We connect, advocate, and empower local businesses through networking, resources, and civic leadership. When business thrives, our entire commu"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-members",
+              "title": "",
+              "number": "650+",
+              "label": "Member Businesses"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-jobs",
+              "title": "",
+              "number": "15,000+",
+              "label": "Jobs Represented"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-events",
+              "title": "",
+              "number": "75+",
+              "label": "Annual Events"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-years",
+              "title": "",
+              "number": "95",
+              "label": "Years Serving Business"
+            }
+          ],
+          "featuredItemsTitle": "Upcoming Events",
+          "ctaTitle": "Join the Chamber Today",
+          "ctaDescription": {
+            "processed": "<p>Membership opens doors to networking, visibility, advocacy, and exclusive business resources. Invest in your business and your community.</p>",
+            "summary": "Membership opens doors to networking, visibility, advocacy, and exclusive business resources. Invest in your business and your community."
+          },
+          "ctaPrimary": "Become a Member",
+          "ctaSecondary": "Member Directory"
+        }
+      }
+    }
+  },
+  "/directory/riverstone-brewing-company": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMemberBusiness",
+          "id": "biz-riverstone",
+          "title": "Riverstone Brewing Company",
+          "path": "/directory/riverstone-brewing-company",
+          "body": {
+            "processed": "<p>Craft brewery and taproom offering locally brewed beers, seasonal releases, and a community gathering space in downtown Riverside. From hoppy IPAs to smooth stouts, Riverstone takes pride in using locally sourced ingredients and sustainable brewing practices.</p><p>The taproom features 16 rotating taps, a full food menu, and live music on weekends. Available for private events and corporate gatherings.</p>",
+            "summary": "Craft brewery and taproom offering locally brewed beers, seasonal releases, and a community gathering space in downtown Riverside. From hoppy IPAs to smooth stouts, Riverstone takes pride in using loc"
+          },
+          "businessCategory": "Food & Beverage",
+          "address": "245 Main Street, Riverside",
+          "phone": "(555) 200-3001",
+          "websiteUrl": "https://riverstonebrewing.com",
+          "memberSince": "2018",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=800&q=80",
+            "alt": "Riverstone Brewing Company taproom",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/directory/summit-financial-advisors": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMemberBusiness",
+          "id": "biz-summit",
+          "title": "Summit Financial Advisors",
+          "path": "/directory/summit-financial-advisors",
+          "body": {
+            "processed": "<p>Independent financial planning and wealth management firm serving individuals, families, and small business owners in the Riverside area. Our team of certified financial planners provides personalized strategies for retirement, education funding, estate planning, and investment management.</p><p>We believe in transparent, fee-only advising with no commissions or hidden costs. Free initial consultation for chamber members.</p>",
+            "summary": "Independent financial planning and wealth management firm serving individuals, families, and small business owners in the Riverside area. Our team of certified financial planners provides personalized"
+          },
+          "businessCategory": "Professional Services",
+          "address": "890 Commerce Drive, Suite 200",
+          "phone": "(555) 200-3002",
+          "websiteUrl": "https://summitfinancialadvisors.com",
+          "memberSince": "2015",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+            "alt": "Summit Financial Advisors office",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/directory/green-leaf-landscaping": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMemberBusiness",
+          "id": "biz-green-leaf",
+          "title": "Green Leaf Landscaping",
+          "path": "/directory/green-leaf-landscaping",
+          "body": {
+            "processed": "<p>Full-service commercial and residential landscaping company specializing in sustainable design, native plantings, and water-efficient irrigation systems. Family-owned and operated for over 25 years, Green Leaf has transformed thousands of properties throughout the region.</p><p>Services include landscape design, installation, seasonal maintenance, hardscaping, and snow removal.</p>",
+            "summary": "Full-service commercial and residential landscaping company specializing in sustainable design, native plantings, and water-efficient irrigation systems. Family-owned and operated for over 25 years, G"
+          },
+          "businessCategory": "Home & Garden",
+          "address": "1200 Industrial Parkway",
+          "phone": "(555) 200-3003",
+          "websiteUrl": "https://greenleaflandscaping.com",
+          "memberSince": "2005",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+            "alt": "Professional landscaping work",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/directory/pixel-creative-agency": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMemberBusiness",
+          "id": "biz-pixel",
+          "title": "Pixel Creative Agency",
+          "path": "/directory/pixel-creative-agency",
+          "body": {
+            "processed": "<p>A full-service digital marketing and creative agency helping local businesses grow their online presence. Services include web design, social media management, SEO, content creation, and brand strategy.</p><p>Founded by two Riverside natives, Pixel specializes in working with small and medium businesses that want to compete with larger competitors online. We offer chamber member discounts on all service packages.</p>",
+            "summary": "A full-service digital marketing and creative agency helping local businesses grow their online presence. Services include web design, social media management, SEO, content creation, and brand strateg"
+          },
+          "businessCategory": "Marketing & Technology",
+          "address": "456 Innovation Way, Suite 100",
+          "phone": "(555) 200-3004",
+          "websiteUrl": "https://pixelcreativeagency.com",
+          "memberSince": "2020",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+            "alt": "Creative agency team brainstorming",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/business-luncheon-april": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-luncheon",
+          "title": "Monthly Business Luncheon: Economic Outlook 2026",
+          "path": "/events/business-luncheon-april",
+          "body": {
+            "processed": "<p>Join us for our monthly business luncheon featuring keynote speaker Dr. Patricia Hernandez, Chief Economist at First National Bank, presenting the economic outlook for the second half of 2026.</p><h2>Program</h2><ul><li>11:30 AM - Networking and registration</li><li>12:00 PM - Lunch served</li><li>12:30 PM - Keynote presentation</li><li>1:15 PM - Q&A and discussion</li><li>1:45 PM - Adjourn</li></ul><p>Sponsorship opportunities available. Contact events@riversidechamber.org.</p>",
+            "summary": "Join us for our monthly business luncheon featuring keynote speaker Dr. Patricia Hernandez, Chief Economist at First National Bank, presenting the economic outlook for the second half of 2026.Program1"
+          },
+          "eventDate": {
+            "timestamp": 1776270600
+          },
+          "endDate": {
+            "timestamp": 1776278700
+          },
+          "location": "Riverside Grand Hotel Ballroom",
+          "ticketPrice": "$35 members, $50 non-members",
+          "registrationUrl": "https://example.com/luncheon-april",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+            "alt": "Business luncheon event",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/after-hours-mixer": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-mixer",
+          "title": "Business After Hours Mixer",
+          "path": "/events/after-hours-mixer",
+          "body": {
+            "processed": "<p>Our signature networking event! Mingle with fellow business owners and professionals in a relaxed, social setting. This month's mixer is hosted by Riverstone Brewing Company, featuring complimentary craft beer tastings and appetizers.</p><h2>Why Attend</h2><ul><li>Expand your professional network</li><li>Build referral partnerships</li><li>Learn about new businesses in the community</li><li>Enjoy complimentary food and drinks</li></ul><p>Bring your business cards and an open mind. Guests of members welcome.</p>",
+            "summary": "Our signature networking event! Mingle with fellow business owners and professionals in a relaxed, social setting. This month's mixer is hosted by Riverstone Brewing Company, featuring complimentary c"
+          },
+          "eventDate": {
+            "timestamp": 1777068000
+          },
+          "endDate": {
+            "timestamp": 1777077000
+          },
+          "location": "Riverstone Brewing Company, 245 Main Street",
+          "ticketPrice": "Free for members, $10 non-members",
+          "registrationUrl": "https://example.com/mixer-april",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "alt": "Business professionals networking",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/annual-business-awards": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-awards",
+          "title": "Annual Business Excellence Awards Gala",
+          "path": "/events/annual-business-awards",
+          "body": {
+            "processed": "<p>Celebrate the outstanding achievements of Riverside businesses at our annual awards gala. This black-tie event honors innovation, community impact, leadership, and entrepreneurial success.</p><h2>Award Categories</h2><ul><li>Business of the Year (Large and Small)</li><li>Entrepreneur of the Year</li><li>Community Impact Award</li><li>Innovation Award</li><li>Emerging Business Award</li></ul><p>Nominations are open through August 31. Formal attire requested. Tables of 8 available for corporate sponsors.</p>",
+            "summary": "Celebrate the outstanding achievements of Riverside businesses at our annual awards gala. This black-tie event honors innovation, community impact, leadership, and entrepreneurial success.Award Catego"
+          },
+          "eventDate": {
+            "timestamp": 1792278000
+          },
+          "endDate": {
+            "timestamp": 1792292400
+          },
+          "location": "Riverside Convention Center",
+          "ticketPrice": "$85 per person, $600 table of 8",
+          "registrationUrl": "https://example.com/awards-gala",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&q=80",
+            "alt": "Formal business awards ceremony",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/resources/starting-a-business": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeResource",
+          "id": "resource-startup",
+          "title": "Starting a Business in Riverside",
+          "path": "/resources/starting-a-business",
+          "body": {
+            "processed": "<p>Everything you need to know about launching a business in the Riverside area. From permits and licensing to funding sources and mentorship, this guide covers every step of the startup journey.</p><h2>Step-by-Step Guide</h2><ul><li>Develop your business plan</li><li>Choose your business structure (LLC, S-Corp, etc.)</li><li>Register with the state and obtain an EIN</li><li>Apply for local business licenses and permits</li><li>Open a business bank account</li><li>Secure insurance</li><li>Find your location</li></ul><h2>Local Resources</h2><ul><li><strong>SCORE Riverside:</strong> Free mentoring from experienced business owners</li><li><strong>Small Business Development Center:</strong> Free consulting and workshops</li><li><strong>Riverside Economic Development Office:</strong> Incentives and tax programs</li></ul>",
+            "summary": "Everything you need to know about launching a business in the Riverside area. From permits and licensing to funding sources and mentorship, this guide covers every step of the startup journey.Step-by-"
+          },
+          "resourceCategory": "Starting a Business",
+          "audience": "Entrepreneurs & Startups",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+            "alt": "Entrepreneur planning a business launch",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/resources/advocacy-priorities": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeResource",
+          "id": "resource-advocacy",
+          "title": "Legislative Advocacy & Policy Priorities",
+          "path": "/resources/advocacy-priorities",
+          "body": {
+            "processed": "<p>The Riverside Chamber advocates on behalf of the business community at the local, state, and federal levels. Our policy positions are developed through member input and our Government Affairs Committee.</p><h2>2026 Policy Priorities</h2><ul><li><strong>Infrastructure Investment:</strong> Support for broadband expansion and road improvements</li><li><strong>Workforce Development:</strong> Expanded apprenticeship programs and training partnerships</li><li><strong>Tax Policy:</strong> Reasonable tax rates that encourage business investment</li><li><strong>Regulatory Reform:</strong> Streamlined permitting processes for small businesses</li><li><strong>Downtown Revitalization:</strong> Public-private partnerships for economic development</li></ul><h2>How to Get Involved</h2><p>Join our Government Affairs Committee or sign up for legislative alerts to stay informed about issues affecting your business.</p>",
+            "summary": "The Riverside Chamber advocates on behalf of the business community at the local, state, and federal levels. Our policy positions are developed through member input and our Government Affairs Committe"
+          },
+          "resourceCategory": "Advocacy",
+          "audience": "All Members",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80",
+            "alt": "Government building representing advocacy",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/resources/marketing-toolkit": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeResource",
+          "id": "resource-marketing",
+          "title": "Member Marketing Toolkit",
+          "path": "/resources/marketing-toolkit",
+          "body": {
+            "processed": "<p>As a chamber member, you have access to a variety of marketing tools and opportunities to increase your business visibility in the community.</p><h2>Member Benefits</h2><ul><li><strong>Business Directory Listing:</strong> Prominent placement on our website with 10,000+ monthly visitors</li><li><strong>Social Media Features:</strong> Monthly member spotlights across our social channels</li><li><strong>Newsletter Inclusion:</strong> Submit articles and offers for our bi-weekly newsletter (8,000+ subscribers)</li><li><strong>Event Sponsorship:</strong> Brand visibility at chamber events throughout the year</li><li><strong>Referral Network:</strong> Direct referrals from chamber staff and fellow members</li></ul><h2>Advertising Opportunities</h2><p>Website banner ads, newsletter sponsorships, and event program advertising are available at member rates. Contact marketing@riversidechamber.org for pricing.</p>",
+            "summary": "As a chamber member, you have access to a variety of marketing tools and opportunities to increase your business visibility in the community.Member BenefitsBusiness Directory Listing: Prominent placem"
+          },
+          "resourceCategory": "Marketing",
+          "audience": "All Members",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+            "alt": "Marketing strategy planning session",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/small-business-week-2026": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-small-biz-week",
+          "title": "Riverside Celebrates National Small Business Week",
+          "path": "/news/small-business-week-2026",
+          "body": {
+            "processed": "<p>The Riverside Chamber is proud to celebrate National Small Business Week with a series of events honoring the entrepreneurs and small business owners who are the backbone of our local economy.</p><h2>Week-Long Programming</h2><ul><li><strong>Monday:</strong> Small Business Appreciation Day -- shop local discounts at participating businesses</li><li><strong>Tuesday:</strong> Free marketing workshop for small business owners</li><li><strong>Wednesday:</strong> Small Business Owners Luncheon with keynote speaker</li><li><strong>Thursday:</strong> Meet-the-Lender networking event</li><li><strong>Friday:</strong> Small Business Awards reception</li></ul><p>Small businesses employ over 60% of Riverside's workforce. This week, we celebrate their dedication, innovation, and resilience.</p>",
+            "summary": "The Riverside Chamber is proud to celebrate National Small Business Week with a series of events honoring the entrepreneurs and small business owners who are the backbone of our local economy.Week-Lon"
+          },
+          "newsCategory": "Events",
+          "publishDate": {
+            "timestamp": 1777384800
+          },
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&q=80",
+            "alt": "Small business storefront",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/downtown-infrastructure-project": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-infrastructure",
+          "title": "Chamber Secures $5M Grant for Downtown Infrastructure",
+          "path": "/news/downtown-infrastructure-project",
+          "body": {
+            "processed": "<p>After two years of advocacy by the Riverside Chamber's Government Affairs Committee, the city has been awarded a $5 million federal grant for downtown infrastructure improvements.</p><p>The project will include upgraded sidewalks, improved street lighting, new public parking, and enhanced broadband connectivity throughout the downtown business district.</p><h2>Timeline</h2><p>Construction is expected to begin in fall 2026 and be completed by spring 2028. The Chamber will host informational sessions for affected businesses to minimize disruption during construction.</p><h2>Business Impact</h2><p>\"This investment will transform downtown Riverside into an even more attractive destination for businesses and customers alike,\" said Chamber President Janet Morrison. \"Modern infrastructure is essential for attracting new businesses and supporting existing ones.\"</p>",
+            "summary": "After two years of advocacy by the Riverside Chamber's Government Affairs Committee, the city has been awarded a $5 million federal grant for downtown infrastructure improvements.The project will incl"
+          },
+          "newsCategory": "Advocacy",
+          "publishDate": {
+            "timestamp": 1773583200
+          },
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+            "alt": "Downtown cityscape development",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/workforce-partnership-announcement": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-workforce",
+          "title": "Chamber Launches Workforce Partnership with Community College",
+          "path": "/news/workforce-partnership-announcement",
+          "body": {
+            "processed": "<p>The Riverside Chamber of Commerce and Riverside Community College have announced a new workforce development partnership designed to address the skilled labor shortage affecting local businesses.</p><h2>Program Highlights</h2><ul><li>Industry-aligned certificate programs in healthcare, IT, and advanced manufacturing</li><li>Paid internship pipeline connecting students with member businesses</li><li>Tuition assistance for employees of chamber member businesses</li><li>Customized training programs developed with employer input</li></ul><p>\"By aligning education with employer needs, we are creating a win-win for students and businesses,\" said Dr. Marcus Rivera, President of Riverside Community College.</p><p>Member businesses interested in participating as internship hosts or advising on curriculum development should contact workforce@riversidechamber.org.</p>",
+            "summary": "The Riverside Chamber of Commerce and Riverside Community College have announced a new workforce development partnership designed to address the skilled labor shortage affecting local businesses.Progr"
+          },
+          "newsCategory": "Workforce",
+          "publishDate": {
+            "timestamp": 1771599600
+          },
+          "featured": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+            "alt": "Students in a training program",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About the Riverside Chamber of Commerce",
+          "path": "/about",
+          "body": {
+            "processed": "<p>The Riverside Chamber of Commerce has been the leading business organization in the region since 1931. With over 650 member businesses representing 15,000 employees, we are the collective voice of the Riverside business community.</p><h2>Our Mission</h2><p>To promote a thriving business environment through advocacy, networking, education, and community engagement that drives economic prosperity for all of Riverside.</p><h2>What We Do</h2><ul><li><strong>Advocate</strong> for pro-business policies at all levels of government</li><li><strong>Connect</strong> members through 75+ networking events annually</li><li><strong>Educate</strong> with workshops, seminars, and mentorship programs</li><li><strong>Promote</strong> member businesses through our directory, media, and referrals</li><li><strong>Lead</strong> community initiatives that strengthen the local economy</li></ul><h2>Leadership</h2><p>The Chamber is governed by a 15-member Board of Directors comprised of business leaders from diverse industries. Our professional staff of 8 manages daily operations, events, and member services.</p>",
+            "summary": "The Riverside Chamber of Commerce has been the leading business organization in the region since 1931. With over 650 member businesses representing 15,000 employees, we are the collective voice of the"
+          }
+        }
+      }
+    }
+  },
+  "/join": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-join",
+          "title": "Become a Member",
+          "path": "/join",
+          "body": {
+            "processed": "<h2>Membership Levels</h2><p>We offer membership tiers to fit businesses of every size and budget.</p><ul><li><strong>Starter ($250/year):</strong> Sole proprietors and home-based businesses. Directory listing, event access, and newsletter.</li><li><strong>Professional ($500/year):</strong> Businesses with 1-10 employees. All Starter benefits plus committee participation, ribbon cutting ceremony, and social media spotlight.</li><li><strong>Business ($1,000/year):</strong> Businesses with 11-50 employees. All Professional benefits plus enhanced directory listing, event sponsorship discounts, and advertising opportunities.</li><li><strong>Corporate ($2,500/year):</strong> Businesses with 50+ employees. All Business benefits plus board meeting access, premier event recognition, and custom partnership opportunities.</li></ul><h2>How to Join</h2><p>Complete the membership application online or contact our membership team at membership@riversidechamber.org or (555) 200-3000. We look forward to welcoming you!</p>",
+            "summary": "Membership LevelsWe offer membership tiers to fit businesses of every size and budget.Starter ($250/year): Sole proprietors and home-based businesses. Directory listing, event access, and newsletter.P"
+          }
+        }
+      }
+    }
+  }
+}
