@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-members",
               "title": "",
-              "number": "650+",
+              "number": "650+", "value": "650+",
               "label": "Member Businesses"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-jobs",
               "title": "",
-              "number": "15,000+",
+              "number": "15,000+", "value": "15,000+",
               "label": "Jobs Represented"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-events",
               "title": "",
-              "number": "75+",
+              "number": "75+", "value": "75+",
               "label": "Annual Events"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-years",
               "title": "",
-              "number": "95",
+              "number": "95", "value": "95",
               "label": "Years Serving Business"
             }
           ],
