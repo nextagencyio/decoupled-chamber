@@ -1,6 +1,5 @@
+import { getClient } from '@/lib/drupal-client'
 import { Metadata } from 'next'
-import { headers } from 'next/headers'
-import { getServerApolloClient } from '@/lib/apollo-client'
 import { GET_MEMBER_BUSINESSES } from '@/lib/queries'
 import { MemberBusinessesData } from '@/lib/types'
 import Header from '../components/Header'
@@ -16,13 +15,8 @@ export const metadata: Metadata = {
 
 async function getMemberBusinesses() {
   try {
-    const requestHeaders = await headers()
-    const apolloClient = getServerApolloClient(requestHeaders)
-    const { data } = await apolloClient.query<MemberBusinessesData>({
-      query: GET_MEMBER_BUSINESSES,
-      variables: { first: 50 },
-      fetchPolicy: 'cache-first',
-    })
+    const client = getClient()
+    const { data } = await client.raw(GET_MEMBER_BUSINESSES, { first: 50 })
     return data?.nodeMemberBusinesses?.nodes || []
   } catch (error) {
     console.error('Error fetching member businesses:', error)
