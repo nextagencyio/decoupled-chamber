@@ -24,7 +24,7 @@ interface MemberBusinessByPathData {
 async function getMemberBusiness(path: string): Promise<DrupalMemberBusiness | null> {
   try {
     const client = getClient()
-    const { data } = await client.raw(GET_MEMBER_BUSINESS_BY_PATH, { path })
+    const data = await client.raw(GET_MEMBER_BUSINESS_BY_PATH, { path })
     return data?.route?.entity || null
   } catch (error) {
     console.error('Error fetching member business:', error)
