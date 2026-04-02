@@ -24,7 +24,7 @@ export interface TypedClient {
   raw<T = any>(query: string, variables?: Record<string, any>): Promise<T>
 }
 
-// Stub factory — uses raw queryByPath with a basic route query
+// Stub factory — uses raw queryByPath with a full route query
 export function createTypedClient(client: DecoupledClient): TypedClient {
   return {
     async getEntries() { return [] },
@@ -34,7 +34,46 @@ export function createTypedClient(client: DecoupledClient): TypedClient {
         query ($path: String!) {
           route(path: $path) {
             ... on RouteInternal {
-              entity { ... on NodePage { __typename id title path body { processed } } }
+              entity {
+                ... on NodePage { __typename id title path body { processed } }
+                ... on NodeMemberBusiness {
+                  __typename id title path
+                  body { processed }
+                  businessCategory address phone websiteUrl memberSince
+                  image { url alt width height }
+                }
+                ... on NodeEvent {
+                  __typename id title path
+                  body { processed }
+                  eventDate { timestamp } endDate { timestamp }
+                  location ticketPrice registrationUrl
+                  image { url alt width height }
+                }
+                ... on NodeResource {
+                  __typename id title path
+                  body { processed }
+                  resourceCategory audience
+                  image { url alt width height }
+                }
+                ... on NodeNews {
+                  __typename id title path
+                  created { timestamp }
+                  body { processed }
+                  newsCategory publishDate { timestamp } featured
+                  image { url alt width height }
+                }
+                ... on NodeHomepage {
+                  __typename id title path
+                  heroTitle heroSubtitle
+                  heroDescription { processed }
+                  statsItems {
+                    ... on ParagraphStatItem { id number label }
+                  }
+                  featuredItemsTitle
+                  ctaTitle ctaDescription { processed }
+                  ctaPrimary ctaSecondary
+                }
+              }
             }
           }
         }

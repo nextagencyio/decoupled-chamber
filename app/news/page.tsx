@@ -17,7 +17,7 @@ async function getNews() {
   try {
     const client = getClient()
     const data = await client.raw(GET_NEWS, { first: 50 })
-    return data?.nodeNewses?.nodes || []
+    return data?.nodeNewsItems?.nodes || []
   } catch (error) {
     console.error('Error fetching news:', error)
     return []

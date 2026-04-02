@@ -261,7 +261,7 @@ export const GET_RESOURCE_BY_PATH = gql`
 // News
 export const GET_NEWS = gql`
   query GetNews($first: Int = 20) {
-    nodeNewses(first: $first, sortKey: CREATED_AT) {
+    nodeNewsItems(first: $first, sortKey: CREATED_AT) {
       nodes {
         __typename
         id
